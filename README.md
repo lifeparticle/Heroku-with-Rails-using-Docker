@@ -33,7 +33,7 @@ development:
 
 test:
   <<: *default
-  database: myapp_tes
+  database: myapp_test
 ```
 
 4. Boot the app
